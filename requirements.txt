@@ -1,9 +1,0 @@
-numpy
-pandas 
-matplotlib
-seaborn
-train_test_split
-DecisionTreeRegressor
-scikit-learn
-prophet
-
